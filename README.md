@@ -3,22 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>반장 박지민의 다짐</title>
-    <style>
-        body {
-            max-width: 600px;
-            margin: 100px auto;
-            padding: 0 20px;
-            font-family: sans-serif;
-            line-height: 1.6;
-            color: #222;
-            background-color: #fff;
-        }
-        h1 { font-size: 24px; margin-bottom: 20px; }
-        p { font-size: 16px; }
-        a { color: #0066cc; text-decoration: none; }
-        a:hover { text-decoration: underline; }
-    </style>
-</head>
+
 <body>
        <p>2학기가 시작되었다.</p>
 
