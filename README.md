@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>반장 박지민의 다짐</title>
+   반장 박지민의 다짐
 
 <body>
        <p>2학기가 시작되었다.</p>
