@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
 
-
+# {{ site.title }}
 <body>
        <p>2학기가 시작되었다.</p>
 
